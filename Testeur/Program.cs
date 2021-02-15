@@ -43,11 +43,7 @@ namespace Testeur
                 }
             }
 
-            Console.WriteLine("Commit 1");
-
             Console.ReadLine();
-
-            
         }
     }
 }
